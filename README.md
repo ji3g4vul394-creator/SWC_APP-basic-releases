@@ -6,7 +6,7 @@
 
 ## 下載與安裝
 
-1. 點右側 **Releases**,下載 **`SWCAppBasic-win-Setup.exe`**(其他檔案是程式自動更新用的,不必下載)。
+1. 點右側 **Releases**,下載 **`SWCAppBasic-basic-Setup.exe`**(其他檔案是程式自動更新用的,不必下載)。
 2. 執行安裝程式。不需要管理員權限,程式裝到你自己的使用者資料夾(`%LocalAppData%\SWCAppBasic`)。
    Windows 若出現「Windows 已保護你的電腦」(SmartScreen):點 **其他資訊 → 仍要執行**。
 3. 安裝完成會自動開啟程式,桌面與開始功能表會有「水保計畫輔助系統 基礎版」捷徑。
